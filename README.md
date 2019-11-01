@@ -8,4 +8,4 @@ As before, the zg2uni Python function code snippet used in the script comes cour
 <p>
 ><i>python zg-uni-file-renamer.py -s {source directory}</i>
 <p>
-This will scan the entire source directory and rename each file (regardless of the extension) to Unicode in the same directory.
+This will scan the entire source directory and rename each file (regardless of the extension) as well as directory to Unicode in the same directory.
